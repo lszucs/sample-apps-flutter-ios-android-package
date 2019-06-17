@@ -1,5 +1,7 @@
 library package;
 
+import 'dart:math';
+
 /// A Calculator.
 class Calculator {
   /// Returns [value] plus 1.
